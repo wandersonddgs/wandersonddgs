@@ -1,5 +1,5 @@
-## My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats-wandersonddgs.vercel.app/api?username=wandersonddgs&show_icons=true&icon_color=2c74b3&bg_color=040f1a&border_color=2c74b3&border_radius=9&text_color=0a2647&include_all_commits=true&line_height=30&card_width=525px&hide_title=true&ring_color=2c74b3)](https://github.com/anuraghazra/github-readme-stats)
+## My Stats 🤓
+[![Anurag's GitHub stats](https://github-readme-stats-wandersonddgs.vercel.app/api?username=wandersonddgs&show_icons=true&icon_color=2c74b3&bg_color=040f1a&border_color=2c74b3&border_radius=9&text_color=0a2647&include_all_commits=true&card_width=525px&line_height=30&hide_title=true&ring_color=2c74b3)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonddgs&layout=compact&card_width=525&bg_color=040f1a&hide_border=false&border_color=2c74b3&border_radius=9&title_color=2c74b3&text_color=0a2647)](https://github.com/anuraghazra/github-readme-stats) <br>
 <br>
@@ -10,7 +10,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
 
-## Social Media
+## Social Media 🖥️
 <a href="https://www.youtube.com/channel/UCjhCV2OnOjK_YFK6hLIsf-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.instagram.com/wandersonddgs/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/wanderson-patrick/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br>
