@@ -25,3 +25,8 @@
 <br>
 <a href="https://www.youtube.com/@DevemDobro"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> <br>
 <b>Dev em Dobro for 90% of the design!</b>
+<br>
+<br>
+<a href="https://www.freetool.dev/emoji-picker" tartet="_blank">😀</a>
+<br>
+<b>Emojis</b>
